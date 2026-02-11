@@ -43,7 +43,8 @@ Entities: {entities}
 demo = gr.Interface(
     fn=analyze_text,
     inputs=gr.Textbox(lines=6, placeholder="Enter text here..."),
-    outputs="text",
+    # outputs="text",
+    outputs=gr.Textbox(lines=6,placeholder="AI text analysis results"),
     title="AI Text Insight Analyzer (Azure AI)",
     description="Analyze sentiment, language, key phrases, and entities using Azure AI Language."
 )
