@@ -81,8 +81,13 @@ Gradio (for web UI)
 
 dotenv (for environment variables)
 
-
 Run locally:
 pip install -r requirements.txt
 
 python app.py
+
+
+## Screenshot
+
+![App Screenshot](Screenshot 2026-02-11 133048.png)
+
