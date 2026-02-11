@@ -89,5 +89,5 @@ python app.py
 
 ## Screenshot
 
-![App Screenshot](Screenshot 2026-02-11 133048.png)
+App Screenshot - (Screenshot 2026-02-11 133048.png)
 
