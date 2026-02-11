@@ -54,6 +54,7 @@ This project uses Azure AI Language Service to process user text and generate in
 
 🛠 Tech Stack
 Python
+
 Azure AI Language Service
 Gradio (for web interface)
 python-dotenv (for environment variables)
