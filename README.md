@@ -84,4 +84,5 @@ dotenv (for environment variables)
 
 Run locally:
 pip install -r requirements.txt
+
 python app.py
